@@ -1,13 +1,8 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+I work on political theory and critical theory, with particular interests in Marx, political economy, and modern social thought.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+This site collects reading notes, short essays, and work in progress.
+
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
