@@ -7,7 +7,7 @@ first_name: Rey
 middle_name: 
 last_name: Ji
 contact_note: >
- -
+ ——
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  note, thought, bank!
 footer_text: >
